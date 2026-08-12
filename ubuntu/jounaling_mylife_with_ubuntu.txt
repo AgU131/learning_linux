@@ -1,0 +1,4 @@
+I used 
+''' sudo apt install pulseaudio-utils '''
+para que pueda funcionar correctamente el compartir audio de zoom al compartir pantalla.
+
